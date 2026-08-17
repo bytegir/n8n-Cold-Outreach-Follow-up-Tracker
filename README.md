@@ -52,7 +52,7 @@ Manual — owner reviews, sends via WhatsApp, updates sheet
 | 4 | **Aggregate** | Collects every generated draft into a single array. |
 | 5 | **Notif** (Slack) | Posts the full digest as one message to a dedicated Slack channel. |
 
-![Workflow Canvas]("C:\Users\muhba\OneDrive\Pictures\Screenshots\Screenshot 2026-08-17 175615.png")
+"C:\Users\muhba\OneDrive\Pictures\Screenshots\Screenshot 2026-08-17 175615.png"
 *Screenshot: full n8n canvas — Scheduler → Google Sheets → Code (routing + drafting) → Aggregate → Slack.*
 
 ---
