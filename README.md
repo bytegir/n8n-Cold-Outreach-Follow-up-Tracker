@@ -110,7 +110,7 @@ Existing sheet columns (no new sheet or form needed):
 
 ## Output Example
 
-![Slack Digest Example](./assets/slack-digest-example.png)
+<img width="960" height="504" alt="Screenshot 2026-08-17 203412" src="https://github.com/user-attachments/assets/d7d01359-d2fe-4692-b9a1-16b8fec5bc18" />
 *Screenshot: a sample morning digest posted to Slack — one entry per lead due for FU1 or FU2.*
 
 ---
